@@ -94,6 +94,7 @@ if __name__=="__main__":
     print("New Output data: ")
     print(neuron.think(np.array([user_input_one, user_input_two, user_input_three])))
     print("Wow, we did it!")
+  ```
 
 
 ## Output:
